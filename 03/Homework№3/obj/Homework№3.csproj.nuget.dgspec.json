@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\three\\nordic-it-cs-q1\\01\\Classwork\\Lesson1\\Lesson1.csproj": {}
+    "C:\\Users\\three\\source\\repos\\Homework№3\\Homework№3\\Homework№3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\three\\nordic-it-cs-q1\\01\\Classwork\\Lesson1\\Lesson1.csproj": {
+    "C:\\Users\\three\\source\\repos\\Homework№3\\Homework№3\\Homework№3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\three\\nordic-it-cs-q1\\01\\Classwork\\Lesson1\\Lesson1.csproj",
-        "projectName": "Lesson1",
-        "projectPath": "C:\\Users\\three\\nordic-it-cs-q1\\01\\Classwork\\Lesson1\\Lesson1.csproj",
+        "projectUniqueName": "C:\\Users\\three\\source\\repos\\Homework№3\\Homework№3\\Homework№3.csproj",
+        "projectName": "Homework№3",
+        "projectPath": "C:\\Users\\three\\source\\repos\\Homework№3\\Homework№3\\Homework№3.csproj",
         "packagesPath": "C:\\Users\\three\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\three\\nordic-it-cs-q1\\01\\Classwork\\Lesson1\\obj\\",
+        "outputPath": "C:\\Users\\three\\source\\repos\\Homework№3\\Homework№3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\three\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -9,3 +9,14 @@ C:\Users\three\source\repos\Lesson1\Lesson1\obj\Debug\netcoreapp3.0\Lesson1.Asse
 C:\Users\three\source\repos\Lesson1\Lesson1\obj\Debug\netcoreapp3.0\Lesson1.AssemblyInfo.cs
 C:\Users\three\source\repos\Lesson1\Lesson1\obj\Debug\netcoreapp3.0\Lesson1.dll
 C:\Users\three\source\repos\Lesson1\Lesson1\obj\Debug\netcoreapp3.0\Lesson1.pdb
+C:\Users\three\nordic-it-cs-q1\01\Classwork\Lesson1\bin\Debug\netcoreapp3.0\Lesson1.exe
+C:\Users\three\nordic-it-cs-q1\01\Classwork\Lesson1\bin\Debug\netcoreapp3.0\Lesson1.deps.json
+C:\Users\three\nordic-it-cs-q1\01\Classwork\Lesson1\bin\Debug\netcoreapp3.0\Lesson1.runtimeconfig.json
+C:\Users\three\nordic-it-cs-q1\01\Classwork\Lesson1\bin\Debug\netcoreapp3.0\Lesson1.runtimeconfig.dev.json
+C:\Users\three\nordic-it-cs-q1\01\Classwork\Lesson1\bin\Debug\netcoreapp3.0\Lesson1.dll
+C:\Users\three\nordic-it-cs-q1\01\Classwork\Lesson1\bin\Debug\netcoreapp3.0\Lesson1.pdb
+C:\Users\three\nordic-it-cs-q1\01\Classwork\Lesson1\obj\Debug\netcoreapp3.0\Lesson1.csprojAssemblyReference.cache
+C:\Users\three\nordic-it-cs-q1\01\Classwork\Lesson1\obj\Debug\netcoreapp3.0\Lesson1.AssemblyInfoInputs.cache
+C:\Users\three\nordic-it-cs-q1\01\Classwork\Lesson1\obj\Debug\netcoreapp3.0\Lesson1.AssemblyInfo.cs
+C:\Users\three\nordic-it-cs-q1\01\Classwork\Lesson1\obj\Debug\netcoreapp3.0\Lesson1.dll
+C:\Users\three\nordic-it-cs-q1\01\Classwork\Lesson1\obj\Debug\netcoreapp3.0\Lesson1.pdb
