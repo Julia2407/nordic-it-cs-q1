@@ -1,0 +1,11 @@
+C:\Users\three\source\repos\Homework № 6_1\Homework № 6_1\bin\Debug\netcoreapp3.0\Homework № 6_1.exe
+C:\Users\three\source\repos\Homework № 6_1\Homework № 6_1\bin\Debug\netcoreapp3.0\Homework № 6_1.deps.json
+C:\Users\three\source\repos\Homework № 6_1\Homework № 6_1\bin\Debug\netcoreapp3.0\Homework № 6_1.runtimeconfig.json
+C:\Users\three\source\repos\Homework № 6_1\Homework № 6_1\bin\Debug\netcoreapp3.0\Homework № 6_1.runtimeconfig.dev.json
+C:\Users\three\source\repos\Homework № 6_1\Homework № 6_1\bin\Debug\netcoreapp3.0\Homework № 6_1.dll
+C:\Users\three\source\repos\Homework № 6_1\Homework № 6_1\bin\Debug\netcoreapp3.0\Homework № 6_1.pdb
+C:\Users\three\source\repos\Homework № 6_1\Homework № 6_1\obj\Debug\netcoreapp3.0\Homework № 6_1.csprojAssemblyReference.cache
+C:\Users\three\source\repos\Homework № 6_1\Homework № 6_1\obj\Debug\netcoreapp3.0\Homework № 6_1.AssemblyInfoInputs.cache
+C:\Users\three\source\repos\Homework № 6_1\Homework № 6_1\obj\Debug\netcoreapp3.0\Homework № 6_1.AssemblyInfo.cs
+C:\Users\three\source\repos\Homework № 6_1\Homework № 6_1\obj\Debug\netcoreapp3.0\Homework № 6_1.dll
+C:\Users\three\source\repos\Homework № 6_1\Homework № 6_1\obj\Debug\netcoreapp3.0\Homework № 6_1.pdb
